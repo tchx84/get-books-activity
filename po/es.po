@@ -158,29 +158,49 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-27 14:55-0400\n"
-"PO-Revision-Date: 2012-10-03 09:31+0200\n"
-"Last-Translator: AlanJAS <alanjas@hotmail.com>\n"
+"POT-Creation-Date: 2014-12-23 17:53+0000\n"
+"PO-Revision-Date: 2014-12-23 17:54+0000\n"
+"Last-Translator: Martin <tch@sugarlabs.org>\n"
 "Language-Team: Spanish <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.0.5\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1419357295.526397\n"
 
 #. TRANS: "name" option from activity.info file
 msgid "Get Books"
 msgstr "Obtener libros"
 
 #. TRANS: "summary" option from activity.info file
-#. TRANS: "description" option from activity.info file
 msgid ""
-"Need books? We all do! This activity lets you search and retrieve books from "
-"many different sources. Start reading!"
+"Need a book? We all do! This activity lets you search and retrieve books "
+"from many different sources. Start reading!"
 msgstr ""
-"¿Necesitas libros? ¡Todos lo necesitamos! Esta actividad te permite buscar y "
-"obtener libros de muchas fuentes diferentes. ¡Empieza a leer!"
+"Necesitas un libro? Todos lo necesitamos! Esta actividad te permite busca y "
+"descargar libros de varias fuentes! Empieza a buscar!"
+
+#: listview.py:35
+msgid "Title"
+msgstr "Título"
+
+#: listview.py:37
+msgid "Author"
+msgstr "Autor"
+
+#: listview.py:39
+msgid "Publisher"
+msgstr "Editor"
+
+#: listview.py:41
+msgid "Language"
+msgstr "Lenguaje"
+
+#: listview.py:43
+msgid "Publish Date"
+msgstr "Fecha de publicación"
 
 #: GetIABooksActivity.py:257 GetIABooksActivity.py:497
 #: GetIABooksActivity.py:501 GetIABooksActivity.py:613
@@ -292,25 +312,12 @@ msgstr "Mostrar en diario"
 msgid "Ok"
 msgstr "Ok"
 
-#: listview.py:35
-msgid "Title"
-msgstr "Título"
-
-#: listview.py:37
-msgid "Author"
-msgstr "Autor"
-
-#: listview.py:39
-msgid "Publisher"
-msgstr "Editor"
-
-#: listview.py:41
-msgid "Language"
-msgstr "Lenguaje"
-
-#: listview.py:43
-msgid "Publish Date"
-msgstr "Fecha de publicación"
+#~ msgid ""
+#~ "Need books? We all do! This activity lets you search and retrieve books from "
+#~ "many different sources. Start reading!"
+#~ msgstr ""
+#~ "¿Necesitas libros? ¡Todos lo necesitamos! Esta actividad te permite buscar y "
+#~ "obtener libros de muchas fuentes diferentes. ¡Empieza a leer!"
 
 #~ msgid "Books"
 #~ msgstr "Libros"
